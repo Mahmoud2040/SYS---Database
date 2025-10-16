@@ -15,7 +15,6 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-/src/Lecture01/**
 
 ### NetBeans ###
 /nbproject/private/
