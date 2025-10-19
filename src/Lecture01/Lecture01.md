@@ -1,5 +1,5 @@
 
-# (video )[https://youtu.be/QsTm-UOKuhE]
+[video](https://youtu.be/QsTm-UOKuhE)
 ---
 
 | Command                       | Purpose                |
