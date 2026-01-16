@@ -2,6 +2,7 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/src/Lecture04/lecture04.SQL" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/Lecture08/Resturent_simple_db.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/lecture03/clinec.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/lecture05/lecture05.SQL" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/preparation/Desgin.sql" dialect="GenericSQL" />
